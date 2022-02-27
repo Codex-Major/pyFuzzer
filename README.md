@@ -1,5 +1,6 @@
 # pyFuzzer
 Web directory FUZZer written in python.
+Kinda slow, which reminds me that I need to get learnt up on threading.
 
 # Usage:
     pyFuzzer [-h] [-u URL] [-w WORDLIST]
